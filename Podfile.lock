@@ -1,0 +1,10 @@
+PODS:
+  - SCRecorder (2.5.3)
+
+DEPENDENCIES:
+  - SCRecorder
+
+SPEC CHECKSUMS:
+  SCRecorder: a8b1deff74c4e03f4f3cfbfceb8fbc4877d166e4
+
+COCOAPODS: 0.38.2
